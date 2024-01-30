@@ -6,10 +6,12 @@ function calcular (valor) {
 }
 
 try {
-    const res = calcular(6)
+    const res = calcular(543)
     console.log(`Resultado: ${res}`)
 } catch (error) {
     console.log(error.message)
+} finally {
+     console.log('Chegou no finally')
 }
 
-console.log(calcular(0))
+console.log('Conitua')
