@@ -1,0 +1,16 @@
+h1{
+    color: aliceblue;
+}
+body {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+
+span {
+    color: blue;
+    margin: 20px 200px;
+    background-color: aqua;
+}
+
+
+
