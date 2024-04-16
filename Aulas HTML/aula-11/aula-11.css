@@ -3,5 +3,5 @@ main{
     width: 200px;
     height: 200px;
     padding: 8px;
-    border: 10px groove black;
+    border: 1px solid  rgb(7, 4, 4);
 }
